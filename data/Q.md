@@ -10,3 +10,5 @@ Quantum Computing|量子计算|[[1]](https://www.jiqizhixin.com/articles/2018-01
 Quantum machine learning|量子机器学习|[[1]](https://www.jiqizhixin.com/articles/2017-12-04-5)
 Quasi Newton method|拟牛顿法|[[1]](https://www.jiqizhixin.com/articles/2017-12-16-3)
 Quasi-concave|拟凹|[1]
+Quasi-Recurrent Neural Network|准递归神经网络|
+Quasi-Diagonal Recurrent Neural Network|准对角递归神经网络|
